@@ -28,7 +28,7 @@ It starts scanning for BLE devices nearby .
 Select your device, and Voila!
 
 ## Issues
-If you have any issue with the software, you can submit it at https://github.com/r3b00tl00p/MacUnlock/issues
+If you have any issue with the software, you can submit it [HERE](https://github.com/r3b00tl00p/MacUnlock/issues)
 
 ## Language
 The software is developed in English and French.
