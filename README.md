@@ -1,6 +1,9 @@
 # MacUnlock
 Lock and unlock your Mac with any bluetooth device. 
 
+## French
+Readme is also available in [French](README.FR.md)
+
 ## Requirements
 - MacOS 10.13 (High Sierra) or later
 - A BLE device that transmit signal periodically
@@ -34,9 +37,6 @@ If you have any issue with the software, you can submit it [HERE](https://github
 The software is developed in English and French.
 
 Seen that I'm french, English version can have some imperfections. You can help me by [sending an issue](https://github.com/r3b00tl00p/MacUnlock/issues). Thanks by advance for your help.
-
-## Open Source
-Open source isn't available now but i'll publish the source code later.
 
 ## Credits
 MacUnlock is based on [BLEUnlock by TS1](https://github.com/ts1/BLEUnlock).
