@@ -36,7 +36,7 @@ If you have any issue with the software, you can submit it [HERE](https://github
 ## Language
 The software is developed in English and French.
 
-Seen that I'm french, English version can have some imperfections. You can help me by [sending an issue](https://github.com/r3b00tl00p/MacUnlock/issues). Thanks by advance for your help.
+Seen that I'm french, English version may have some imperfections. You can help me by [sending an issue](https://github.com/r3b00tl00p/MacUnlock/issues). Thanks by advance for your help.
 
 ## Credits
 MacUnlock is based on [BLEUnlock by TS1](https://github.com/ts1/BLEUnlock).
